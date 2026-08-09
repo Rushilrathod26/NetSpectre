@@ -2,7 +2,19 @@
 
 > Professional Network Reconnaissance Framework built with Python & Go.
 
----
+# Installation
+
+Clone the repository:
+
+git clone <url>
+cd NetSpectre
+
+**#Requide**
+pip install -r requirements.txt
+
+**#Scanner Permisson**
+chmod +x ./engine/scanner
+
 
 ## About
 
