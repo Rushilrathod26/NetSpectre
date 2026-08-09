@@ -3,7 +3,7 @@
  NetSpectre
  Professional Network Reconnaissance Framework
 
- Author  : Your Name
+ Author  : Rushil & Vishal
  Version : 1.0.0
 =========================================================
 """
