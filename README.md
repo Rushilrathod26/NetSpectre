@@ -60,7 +60,7 @@ It is designed to perform network discovery, port scanning, service detection, a
 
 ## Author
 
-Your Name
+Rushil & Vishal
 
 ---
 
