@@ -13,6 +13,7 @@ cd NetSpectre
 pip install -r requirements.txt
 
 **#Scanner Permisson**
+
 chmod +x ./engine/scanner
 
 
